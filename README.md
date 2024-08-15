@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Gideão or Gideon(in English)
-- 👀 I’m interested in Front end and Unit test
+- 👋 Hi, I’m Gideão C. Silva
+- 👀 I’m interested in Front & Back-end
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me:
