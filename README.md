@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Gideão C. Silva
-- 👀 I’m interested in Front & Back-end
-- 🌱 I’m currently learning HTML and CSS
+- 👋 Hi, I’m Gideão Silva
+- 👀 I’m learning Business Intelligence
+- 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me:
 -     e-mail: gideaosilva.dev@mail.com
